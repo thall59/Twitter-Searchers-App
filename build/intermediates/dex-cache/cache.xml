@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-24.2.0_72919fc1a6b51ed681d3d7f8f51889ecac282e70.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.2.0_5bc9ea04f4f4d0581179603a1282869bc02f1917.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_7e5801bc26a6c9dfb7d77e829fee99c27bbecbfc.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-24.2.0_caaa573122ee47c03444303940fed5e34d89b500.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.2.0_d2324ba0f2e8609ac670283a3e1f7f3b8b39ccd0.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_a3fae946ba9c33d77068aa0924d18eafdf43bee8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tifa-\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\pre-dexed\release\support-annotations-24.2.0_41e9f9ea324b3ad8d313d7a2a198cd7c11064f1c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-24.2.0_807b5002408cc89b8fd2cc564395dbaa840a5092.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_25d09aea8acb3041d981ffbd810a3446842335b2.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.2.0_f8c08c4eb03406675e55428385ebf22eb4f506ff.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-24.2.0_eb933405390890bd6853a61c8be8efc6e54a3d91.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.2.0_5e9998c9a87eacd370eeadcd4f3eb2d8c6ea7e8f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_d3573a0292d732fcbc84d6c9c6ae5bd8c5ab2779.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_d31b1e4e2af52788fe1d240959ebca06414dd83c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="D:\AndroidStudioProjects\TwitterSearches\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-24.2.0_2aac42ba8bccde75eb3fe67ad471311fa6afa4d6.jar" />
+    </item>
+
+</items>
